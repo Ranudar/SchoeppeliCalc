@@ -26,6 +26,7 @@ form {
   
   label {
     /* Uniform size & alignment */
+    font: 1em arial;
     display: inline;
     width: 90px;
     text-align: left;
